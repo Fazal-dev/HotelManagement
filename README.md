@@ -35,7 +35,7 @@ A basic hotel booking management system built with Laravel 11. This project incl
 
 1. **Clone the repository**:
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/Fazal-dev/HotelManagement.git
     ```
 2. **Install dependencies:**:
 
